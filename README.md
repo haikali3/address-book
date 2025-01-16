@@ -37,8 +37,8 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/haikali3/address-book-app.git
-   cd address-book-app
+   git clone https://github.com/haikali3/address-book.git
+   cd address-book
    ```
 
 2. Install dependencies:
